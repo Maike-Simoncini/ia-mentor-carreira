@@ -49,4 +49,4 @@ Para ter sua sessão de mentoria no [Google Gemini](https://gemini.google.com):
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maike-simoncini-da-silva-9769b2287)
 
 ---
-*Projeto inspirado no curso CI&T - Do Prompt ao Agente da DIO.*
+*Projeto inspirado no Bootcamp CI&T - Do Prompt ao Agente da DIO.*
